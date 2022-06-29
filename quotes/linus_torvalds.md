@@ -7,7 +7,7 @@ like gnu) for 386(486) AT clones.
 data structures. In fact, I'm a huge proponent of designing your code around the
 data, rather than the other way around, and I think it's one of the reasons git
 has been fairly successful […] I will, in fact, claim that the difference
-between a bad programmer and a good one is whether he considers his code or his
+between a bad programmer and a good one "bro" is whether he considers his code or his
 data structures more important. Bad programmers worry about the code. Good
 programmers worry about data structures and their relationships.
 
