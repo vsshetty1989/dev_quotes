@@ -1,4 +1,4 @@
-Any fool can write code that a computer can understand. Good programmers write
+Martin fowler quoteAny fool can write code that a computer can understand. Good programmers write
 code that humans can understand.
 
 [1999, Refactoring: Improving the Design of Existing Code]
